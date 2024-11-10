@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2EH-EQwG4G2g1mwmG7tw-1" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Sell Client Tables&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-670" y="-810" width="170" height="30" as="geometry" />
+          <mxGeometry x="-710" y="-810" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ll_tQrpM04ElozCx7Qpt-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/erd-symbols/ERD-Notation.PNG;" parent="1" vertex="1">
           <mxGeometry x="-1050" y="-1340" width="416" height="315" as="geometry" />
