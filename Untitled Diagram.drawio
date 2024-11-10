@@ -188,7 +188,7 @@
           <mxGeometry x="-1010" y="-555" width="195" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LeXpzE0Ry7vy12lt7345-11" value="&lt;div&gt;History tables&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="818" y="-500" width="195" height="110" as="geometry" />
+          <mxGeometry x="818" y="-530" width="195" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LeXpzE0Ry7vy12lt7345-12" value="&lt;div&gt;History tables&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-940" y="520" width="195" height="110" as="geometry" />
@@ -197,13 +197,16 @@
           <mxGeometry x="-875" y="-1660" width="375" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LeXpzE0Ry7vy12lt7345-15" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Commissions_parameters&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;commision_id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;agent_id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK2&lt;/td&gt;&lt;td&gt;booking_id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;description&lt;br&gt;commision_rate&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="833" y="-375" width="180" height="110" as="geometry" />
+          <mxGeometry x="833" y="-400" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LeXpzE0Ry7vy12lt7345-16" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;align=left;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-520" y="-650" as="sourcePoint" />
             <mxPoint x="-100" y="-570" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LeXpzE0Ry7vy12lt7345-17" value="&lt;div&gt;History tables&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="610" width="195" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
