@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="2">
   <diagram name="Master Table" id="2ca16b54-16f6-2749-3443-fa8db7711227">
-    <mxGraphModel dx="2912" dy="3418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3484" dy="3992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,6 +203,10 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-520" y="-650" as="sourcePoint" />
             <mxPoint x="-100" y="-570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-170" y="-650" />
+              <mxPoint x="-170" y="-570" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LeXpzE0Ry7vy12lt7345-17" value="&lt;div&gt;History tables&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
