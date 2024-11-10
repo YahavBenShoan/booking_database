@@ -219,7 +219,7 @@
           <mxGeometry x="820" y="640" width="195" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LeXpzE0Ry7vy12lt7345-20" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Next Steps&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;1. Use case documents&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2. Build database&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;3. Enter examples&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-1590" width="375" height="40" as="geometry" />
+          <mxGeometry x="-1055" y="-1610" width="375" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
