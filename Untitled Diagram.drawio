@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="2">
   <diagram name="Master Table" id="2ca16b54-16f6-2749-3443-fa8db7711227">
-    <mxGraphModel dx="3323" dy="3635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3365" dy="3635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -186,6 +186,9 @@
         </mxCell>
         <mxCell id="LeXpzE0Ry7vy12lt7345-12" value="&lt;div&gt;History tables&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-940" y="520" width="195" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LeXpzE0Ry7vy12lt7345-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1. Database for images&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2. Use cases documents&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-875" y="-1660" width="375" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
