@@ -215,6 +215,9 @@
         <mxCell id="LeXpzE0Ry7vy12lt7345-18" value="Confirmation method once payment is received&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Error entry form in the app that can be entered into payment ID table to connect with payment&lt;/div&gt;&lt;div&gt;2. Manual process to enter confirmation&lt;/div&gt;&lt;div&gt;3. Pending status to booking until payment is received&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="690" width="370" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="LeXpzE0Ry7vy12lt7345-19" value="&lt;div&gt;Payment Methods&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Cash&lt;/div&gt;&lt;div&gt;2. CC&lt;/div&gt;&lt;div&gt;3. Direct transfers (like Zelle)&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="680" width="195" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
