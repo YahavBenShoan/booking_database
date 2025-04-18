@@ -253,7 +253,7 @@
           <mxGeometry x="-1420" y="-410" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="dQNBYN5B7m5BaqCH3r5b-2" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Pictures&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-1415" y="-455" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1415" y="-450" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dQNBYN5B7m5BaqCH3r5b-15" value="&lt;div style=&quot;box-sizing: border-box; width: 100%; background: rgb(228, 228, 228); padding: 2px;&quot;&gt;host_sub_conglomerate&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;sub_conglomerate_id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;host_customer_id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;conglomerate_name&lt;br&gt;hq_country&lt;br&gt;hq_city&lt;br&gt;email&lt;br&gt;phone&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="-995" y="-730" width="180" height="150" as="geometry" />
