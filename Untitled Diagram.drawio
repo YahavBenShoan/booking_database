@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13" pages="2">
   <diagram name="Master Table" id="2ca16b54-16f6-2749-3443-fa8db7711227">
-    <mxGraphModel dx="3293" dy="3069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3839" dy="3328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,8 +45,8 @@
         <mxCell id="ll_tQrpM04ElozCx7Qpt-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/erd-symbols/ERD-Notation.PNG;" parent="1" vertex="1">
           <mxGeometry x="60" y="-2400" width="416" height="315" as="geometry" />
         </mxCell>
-        <mxCell id="hQi0qJ91LmBZ0sVzfeZj-1" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;host_conglomerate&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;conglomerate_id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;host_customer_id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;conglomerate_name&lt;br&gt;hq_country&lt;br&gt;hq_city&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#FFFF99;" parent="1" vertex="1">
-          <mxGeometry x="-1010" y="-720" width="180" height="120" as="geometry" />
+        <mxCell id="hQi0qJ91LmBZ0sVzfeZj-1" value="&lt;div style=&quot;box-sizing: border-box; width: 100%; background: rgb(228, 228, 228); padding: 2px;&quot;&gt;host_conglomerate&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;conglomerate_id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;host_customer_id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;conglomerate_name&lt;br&gt;hq_country&lt;br&gt;hq_city&lt;br&gt;email&lt;br&gt;phone&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#FFFF99;" parent="1" vertex="1">
+          <mxGeometry x="-1010" y="-720" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="hQi0qJ91LmBZ0sVzfeZj-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;align=left;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hQi0qJ91LmBZ0sVzfeZj-1" target="2ed32ef02a7f4228-1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -228,11 +228,16 @@
             <mxPoint x="-740" y="543" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dQNBYN5B7m5BaqCH3r5b-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dQNBYN5B7m5BaqCH3r5b-1" target="2ed32ef02a7f4228-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1110" y="-329.99999999999955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dQNBYN5B7m5BaqCH3r5b-1" value="&lt;div style=&quot;box-sizing: border-box; width: 100%; background: rgb(228, 228, 228); padding: 2px;&quot;&gt;Pictures&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-size: 1em; width: 180px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;pictures_id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;conglomerate_id&lt;br&gt;property_id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;conglomerate_name&lt;br&gt;sub_property_id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-1430" y="-670" width="180" height="160" as="geometry" />
+          <mxGeometry x="-1420" y="-410" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="dQNBYN5B7m5BaqCH3r5b-2" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Pictures&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-1430" y="-760" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1415" y="-455" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
