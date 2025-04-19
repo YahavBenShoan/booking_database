@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13" pages="2">
   <diagram name="Master Table" id="2ca16b54-16f6-2749-3443-fa8db7711227">
-    <mxGraphModel dx="3715" dy="3277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4052" dy="3439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,7 +303,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8IUQLqjJ9US1sdb8YjoT-19" value="Property" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="1920" width="160" height="150" as="geometry" />
+          <mxGeometry x="-630" y="1880" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="8IUQLqjJ9US1sdb8YjoT-20" value="PK : property_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8IUQLqjJ9US1sdb8YjoT-19">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -318,7 +318,7 @@
           <mxGeometry y="120" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8IUQLqjJ9US1sdb8YjoT-23" value="Reviews" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="2115" width="160" height="150" as="geometry" />
+          <mxGeometry x="-870" y="1970" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="8IUQLqjJ9US1sdb8YjoT-24" value="PK : review_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8IUQLqjJ9US1sdb8YjoT-23">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -333,7 +333,7 @@
           <mxGeometry y="120" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8IUQLqjJ9US1sdb8YjoT-27" value="Sub_Property" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="2115" width="160" height="150" as="geometry" />
+          <mxGeometry x="-630" y="2075" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="8IUQLqjJ9US1sdb8YjoT-28" value="PK : property_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8IUQLqjJ9US1sdb8YjoT-27">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -351,7 +351,22 @@
           <mxGeometry x="-910" y="1520" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8IUQLqjJ9US1sdb8YjoT-33" value="&lt;b&gt;Property Tables&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="1860" width="170" height="30" as="geometry" />
+          <mxGeometry x="-630" y="1820" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8IUQLqjJ9US1sdb8YjoT-39" value="Buy_Client" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="2380" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8IUQLqjJ9US1sdb8YjoT-40" value="PK : buy_customer_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8IUQLqjJ9US1sdb8YjoT-39">
+          <mxGeometry y="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8IUQLqjJ9US1sdb8YjoT-41" value="FK1 : agent_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8IUQLqjJ9US1sdb8YjoT-39">
+          <mxGeometry y="60" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8IUQLqjJ9US1sdb8YjoT-44" value="&lt;b&gt;Buy Client Tables&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="2410" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8IUQLqjJ9US1sdb8YjoT-45" value="&lt;b&gt;Booking Tables&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1530" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
